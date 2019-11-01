@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aircnc" title="Rocketshoes" src=".github/logo.svg" width="250px" />
+    <img alt="Aircnc" title="Rocketshoes" src=".github/logo.svg" width="250px" style="color: #333" />
 </h1>
 
 <h4 align="center">
