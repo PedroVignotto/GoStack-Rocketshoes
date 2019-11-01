@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Aircnc" title="Rocketshoes" src=".github/logo.svg" width="250px" style="color: #333" />
+    <img alt="Aircnc" title="Rocketshoes" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
-  Rocketshoes
+  :mortar_board: Rocketshoes
 </h4>
 
 <p align="center">
