@@ -1,10 +1,6 @@
 <h1 align="center">
-    <img alt="Aircnc" title="Rocketshoes" src=".github/logo.png" width="250px" />
+    <img alt="Rocketshoes" title="Rocketshoes" src=".github/logo.png" width="250px" />
 </h1>
-
-<h4 align="center">
-  :mortar_board: Rocketshoes
-</h4>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,6 +13,24 @@
 <p align="center">
   <img alt="Frontend" src=".github/Rocketshoes.png" width="100%">
 </p>
+
+## :mortar_board: Instalação e execução
+
+1. Faça um clone desse repositório;
+2. Entre na pasta rodando `cd GoStack-Rocketshoes`;
+3. Rode `yarn` para instalar as dependências;
+
+### Web
+
+4. Entre na pasta rodando `cd web`;
+5. Inicie o server rodando json-server server.json -p 3333
+6. Rode `yarn start` para iniciar o servidor.
+
+### Mobile
+
+4. Entre na pasta rodando `cd mobile`;
+5. Inicie o server rodando json-server server.json -p 3333
+6. Rode `yarn react-native run-ios` ou `yarn react-native run-android` dependendo do SO.
 
 ## :rocket: Tecnologias
 
@@ -36,6 +50,10 @@ O Rocketshoes é um projeto criado no módulo 7 do GoStack com o foco em aprende
 Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/layout.sketch).
 
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
