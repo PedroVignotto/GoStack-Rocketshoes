@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="#-instalação-e-execução">Instação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,18 +19,19 @@
 ## :mortar_board: Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd GoStack-Rocketshoes`;
-3. Rode `yarn` para instalar as dependências;
+2. Entre na pasta rodando `cd Rocketshoes`;
 
 ### Web
 
-4. Entre na pasta rodando `cd web`;
+3. Entre na pasta rodando `cd web`;
+4. Rode `yarn` para instalar as dependências;
 5. Inicie o server rodando json-server server.json -p 3333
 6. Rode `yarn start` para iniciar o servidor.
 
 ### Mobile
 
-4. Entre na pasta rodando `cd mobile`;
+3. Entre na pasta rodando `cd mobile`;
+4. Rode `yarn` para instalar as dependências;
 5. Inicie o server rodando json-server server.json -p 3333
 6. Rode `yarn react-native run-ios` ou `yarn react-native run-android` dependendo do SO.
 
@@ -41,10 +43,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Redux](https://redux.js.org/)
 - [Redux-Saga](https://github.com/redux-saga/redux-saga)
+- [Reactotron](https://github.com/infinitered/reactotron)
 
 ## 💻 Projeto
 
-O Rocketshoes é um projeto criado no módulo 7 do GoStack com o foco em aprender a arquitetura Flux.
+Rocketshoes é um projeto inspirado na Netshoes, com o foco em aprender a arquitetura Flux aplicada no react.
 
 ## 🔖 Layout
 
@@ -58,4 +61,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Pedro Vignotto :wave: [Contato](https://www.linkedin.com/in/pedro-vignotto/)
